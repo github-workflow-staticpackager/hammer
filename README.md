@@ -13,7 +13,7 @@ For Docker Compose, skip down to the "Docker Compose Steps" section below:
 **Note:**  Tested on Ubuntu Linux 18.04 built on Digital Ocean.
 
 **Step 1:** Install MySQL. These steps were verified on Ubuntu Linux 18.04.
-
+                                                                                                                                   with the new image1.2.3 budler 2.4.22
 ```
 $sudo apt update
 
